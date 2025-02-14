@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(206, 162, 228);
+    background-color: rgb(110, 92, 119);
   }
   h1 {
     text-transform: uppercase;
@@ -10,7 +10,7 @@ body {
     width: 50%;
     margin-left: 25%;
     margin-top: 100px;
-    color: rgb(121, 77, 197);
+    color: rgb(79, 46, 135);
     font-family: "Libre Baskerville", serif;
     text-align: center;
   }
