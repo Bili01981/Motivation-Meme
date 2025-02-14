@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(192, 141, 141);
+    background-color: rgb(206, 162, 228);
   }
   h1 {
     text-transform: uppercase;
@@ -16,7 +16,7 @@ body {
   }
   
   .motivation-img {
-    border: 5px solid rgb(160, 198, 182);
+    border: 5px solid white;
     width: 100%;
   }
   
